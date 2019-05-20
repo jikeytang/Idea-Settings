@@ -1,11 +1,11 @@
 # Idea-Settings
 各个编辑器的配置收集
 
-## QQ Group
-*	492107297 偏前端开发(css,javascript,jquery)
+## QQ 群
+*	492107297 偏前端
 
 ## Idea
 - [Webstorm](./Webstorm.md)
 - [VsCode](./VsCode.md)
 - [Atom](./Atom.md)
-- [Sublime-Text](/jikeytang/sublime-text)
+- [Sublime-Text](/sublime-text)
