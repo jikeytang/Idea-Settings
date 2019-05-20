@@ -8,4 +8,4 @@
 - [Webstorm](./Webstorm.md)
 - [VsCode](./VsCode.md)
 - [Atom](./Atom.md)
-- [Sublime-Text](/sublime-text)
+- [Sublime-Text](https://github.com/jikeytang/sublime-text)
