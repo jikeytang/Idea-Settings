@@ -1,11 +1,16 @@
 ## Plugins
 插件有很多，但不建议全部都安装，用到那个安装那个，安装过多，由于插件质量良莠不齐，会使软件本身不稳定，经常挂掉。
 
-- Vim
+- Vim  
+不好用系列
 File -> Settings -> Plugins
 搜索vim，对它点右键install，然后重启IDE就行了。
 
-- 
+- Eslint  
+没VsCode好用系列
+
+- React snippets   
+安装完之后在此处看规则Preferences -> Editor -> Live Templates -> React Group.
 
 ## Settings
 
