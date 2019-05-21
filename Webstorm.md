@@ -8,7 +8,8 @@ File -> Settings -> Plugins
 
 - Eslint  
 没VsCode好用系列
-- [有关eslint与webstrom格式化的冲突](https://segmentfault.com/q/1010000014002641)
+
+  - [有关eslint与webstrom格式化的冲突](https://segmentfault.com/q/1010000014002641)
 
 - React snippets   
 安装完之后在此处看规则Preferences -> Editor -> Live Templates -> React Group.
