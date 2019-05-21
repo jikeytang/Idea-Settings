@@ -110,3 +110,7 @@ Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
 ## FAQ
 
 ## Guide
+
+## Other
+
+- [有关eslint与webstrom格式化的冲突](https://segmentfault.com/q/1010000014002641)
