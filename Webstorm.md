@@ -114,5 +114,6 @@ Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
 ## Guide
 
 ## Other
-
+- [关于Webstorm webpack经常不能自动热更新问题](https://segmentfault.com/q/1010000007796140)  
+webstrom settings的system settings默认勾选‘safewrite’,勾选去掉就可以了
 
