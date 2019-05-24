@@ -51,6 +51,9 @@ Settings -> Editor -> General -> Appearance -> Show parameter name hints
 Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
 勾不选
 
+- [FTP自动同步功能](https://www.jianshu.com/p/59692367e528)   
+点击导航栏tools->deployment->automatic upload （always）
+
 ## Default Keymap
 
     1. ctrl + shift + n: 打开工程中的文件
