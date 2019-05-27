@@ -112,7 +112,8 @@ Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
 
 ## Document
 
-## FAQ
+## Skill
+- 在出现横向滚动条的文件中，按住 shift 键滚动滚轮，可以横向移动编辑区
 
 ## Guide
 
