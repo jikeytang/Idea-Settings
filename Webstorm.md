@@ -81,7 +81,7 @@ Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
     23. ctrl + F11: 添加标签 ctrl + shift + 大键盘数字键, F11:添加空标签, shift+F11:显示标签列表，方便快捷跳转
     24. ctrl + alt + F12: file path
     25. ctrl + alt + a: search keymap
-    26. shift + F6: 重构标签名
+    26. shift + F6: 重构标签名，焦点在编辑区时可以修改当前文件的变量名
     27. Ctrl+delete  删除光标后面的单词
     28. Ctrl+BackSpace  删除光标前面的单词
     29. Ctrl+小键盘+/-  折叠/展开代码
