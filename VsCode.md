@@ -1,2 +1,8 @@
 ## Plugins
-插件有很多，但不建议全部都安装，用到那个安装那个，安装过多，由于插件质量良莠不齐，会使软件本身不稳定，经常挂掉。
+
+- Eslint  
+
+- Auto Rename Tag  
+自动重命名配对的HTML / XML标签(必备)
+
+- [一款记录 coding 时间的工具--wakatime](https://learnku.com/articles/5927/a-tool-for-recording-coding-time-wakatime)
