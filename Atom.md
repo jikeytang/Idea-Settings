@@ -17,3 +17,16 @@ Vue文件高亮
 ## Skill
 - auto-save 需要手动打开   
 settings中搜索插件，然后手动开启 Enabled 打上勾
+
+## Default Keymap
+
+    '.workspace':
+        'alt-1':'tree-view:toggle'
+        'alt-w':'editor:toggle-line-comments'
+        'ctrl-enter':'editor:newline-above'
+        'shift-enter':'editor:newline-below'
+        'alt-right':'pane:show-next-item'
+        'alt-left':'pane:show-previous-item'
+        'alt-c':'editor:delete-line'
+    'atom-text-editor':
+      'tab': 'emmet:expand-abbreviation-with-tab'
