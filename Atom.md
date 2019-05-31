@@ -1,2 +1,19 @@
 ## Plugins
-插件有很多，但不建议全部都安装，用到那个安装那个，安装过多，由于插件质量良莠不齐，会使软件本身不稳定，经常挂掉。
+- 安装minimap 右边代码预览插件
+
+- emmet  
+扩展语法
+
+- language-vue  
+Vue文件高亮
+
+- file-icons  
+文件图标
+
+- [多台电脑同步atom设置](https://atom.io/packages/sync-settings)  
+[ATOM同步插件和配置，使用sync-settings](https://www.jianshu.com/p/bd006b349d03)
+
+
+## Skill
+- auto-save 需要手动打开   
+settings中搜索插件，然后手动开启 Enabled 打上勾
