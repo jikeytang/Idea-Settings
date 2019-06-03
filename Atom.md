@@ -30,3 +30,7 @@ settings中搜索插件，然后手动开启 Enabled 打上勾
         'alt-c':'editor:delete-line'
     'atom-text-editor':
       'tab': 'emmet:expand-abbreviation-with-tab'
+      
+## Document
+
+- [Atom飞行手册（中文版）](https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details)      
