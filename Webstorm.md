@@ -14,6 +14,8 @@ File -> Settings -> Plugins
 - React snippets   
 安装完之后在此处看规则Preferences -> Editor -> Live Templates -> React Group.
 
+- [vant webstorm插件](http://plugins.jetbrains.com/plugin/11148-vant-plugin)
+
 ## Settings
 
 - 去掉css行号颜色块显示  
