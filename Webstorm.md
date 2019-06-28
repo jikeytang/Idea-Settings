@@ -14,7 +14,9 @@ File -> Settings -> Plugins
 - React snippets   
 安装完之后在此处看规则Preferences -> Editor -> Live Templates -> React Group.
 
-- [vant webstorm插件](http://plugins.jetbrains.com/plugin/11148-vant-plugin)
+- [vant - webstorm插件](http://plugins.jetbrains.com/plugin/11148-vant-plugin)
+
+- [miaozhang9 - WebStorm下配置微信小程序代码提醒jar](https://github.com/miaozhang9/wecharCodejar)
 
 ## Settings
 
