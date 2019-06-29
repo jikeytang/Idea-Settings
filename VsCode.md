@@ -9,6 +9,8 @@
 
 - [Import Cost 显示您在VS代码编辑器中导入的程序包的大小](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
+- [minapp - 微信小程序开发插件](https://developers.weixin.qq.com/community/develop/doc/000c641345c9f8d220b70d94e5b006)
+
 ## Default Keymap
 
     1. ctrl + shift + l 选中相同的单词
