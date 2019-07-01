@@ -22,7 +22,8 @@
 - [Alessandro Fragnani - 项目管理 project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [Pine Wu - Vue开发必备插件 vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [Jun Han - 自动修改匹配标签Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-
+- [charalampos karypidis - Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+- [dsznajder - ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 ## Sill
 
