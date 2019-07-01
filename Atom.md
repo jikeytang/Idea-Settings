@@ -33,4 +33,4 @@ settings中搜索插件，然后手动开启 Enabled 打上勾
       
 ## Document
 
-- [Atom飞行手册（中文版）](https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details)      
+- [Atom飞行手册（中文版）](https://wizardforcel.gitbooks.io/atom-flight-manual-zh-cn/content/)      

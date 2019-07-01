@@ -20,9 +20,6 @@ File -> Settings -> Plugins
 
 ## Settings
 
-- 去掉css行号颜色块显示  
-settings -> Editor -> Appearance -> show css color preview icon in gutter
-
 - 请教如何让光标只能在最后一个字符后面  
 file -> settings -> ide settings ->editor
 allow ... after end of line
@@ -32,12 +29,6 @@ file - settings - Appearance - show memory indicator
 
 - 关闭标签自动提示，比如输入i会有iframe,ie7等提示  
 File -> Settings -> Editor -> Code Completion -> Autopopup code completion
-
-- 去掉波浪线  
-file - settings - Editor - Colors & Fonts - General
-
-- 去除烦人的波浪线+灰色变量名，原因 - 没用过的标签  
-file - settings - Editor - Colors & Fonts - General - Unused sumbol，然后取消选中Effects和Foreground
 
 - jsp页面提示插件   
 Application Servers View打勾
@@ -55,10 +46,64 @@ Settings -> Editor -> General -> Appearance -> Show parameter name hints
 Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
 勾不选
 
-- [FTP自动同步功能](https://www.jianshu.com/p/59692367e528)   
-点击导航栏tools->deployment->automatic upload （always）
+- [如何取消Webstorm的分号检查 - How to disable WebStorm semicolon check?](https://stackoverflow.com/questions/31583771/how-to-disable-webstorm-semicolon-check-in-node-js)
+- [通过调试工具将 JS 运行过程可视化可以做到吗?](https://segmentfault.com/q/1010000000592521)
 
-- [配置webstorm开发微信小程序](https://www.jianshu.com/p/e2b45d96301e)   
+- 主题
+
+  - [修改IDEA代码左侧折叠线颜色](https://blog.csdn.net/FocusAgain/article/details/69257625)   
+  - [phpstorm 主题](http://www.phpstorm-themes.com/)   
+  - 去掉css行号颜色块显示  
+  settings -> Editor -> Appearance -> show css color preview icon in gutter
+  - 去掉波浪线  
+  file - settings - Editor - Colors & Fonts - General
+  - 去除烦人的波浪线+灰色变量名，原因 - 没用过的标签  
+  file - settings - Editor - Colors & Fonts - General - Unused sumbol，然后取消选中Effects和Foreground
+
+- Java
+
+  - [IntelliJ IDEA 的热部署](https://zyjustin9.iteye.com/blog/2173112)
+  - [IntelliJ IDEA12 怎么热部署，每次修改java文件就得重启tomcat](https://www.oschina.net/question/194770_91781)
+  - [从Eclipse转移到IntelliJ IDEA一点心得](http://www.ituring.com.cn/article/37792)
+  - [Intellij idea 使用配置](https://hwy1782.iteye.com/blog/1917988)
+  - [解决intellij idea中使用live edit插件不能在chrome即时显示css变化的方法（html可以）](https://www.cnblogs.com/nova-/p/3761698.html)
+
+- PHP
+
+  - [使用phpstorm来做github的git操作](https://jingyan.baidu.com/article/27fa7326fc009e46f9271f47.html)
+  - [膘叔 - phpstorm设置ftp上传的时间问题](http://www.neatstudio.com/show-2057-1.shtml)
+
+- React
+
+  - [React snippets](https://plugins.jetbrains.com/plugin/10113-react-snippets)
+  - [WebStorm中使用reactjs语法报错](https://segmentfault.com/q/1010000004125560)
+  - [WebStorm中添加自定义模板](https://github.com/jakwuh/webtip/tree/master/tips/02-08-2017)
+  - [WebStorm中React详细规则](https://github.com/Drapegnik/env/tree/master/jetbrains/templates)
+  - [Useful Javascript & React live-templates for WebStorm](https://medium.com/@drapegnik/useful-javascript-react-live-templates-for-webstorm-8a6c70aee207)
+  
+- Vue
+
+  - [Vue 设置 Script 标签首层不缩进](https://www.jianshu.com/p/622c463ff925)  
+  
+  
+- 微信小程序
+
+  - [配置webstorm开发微信小程序](https://www.jianshu.com/p/e2b45d96301e)     
+  
+- Git
+
+  - [英杰王 - IDEA修改git账号及密码的方法](https://blog.csdn.net/dalinsi/article/details/77989840)  
+  - [曹梦龙 - WebStorm与Git使用指南](https://www.kancloud.cn/caomenglong/webstorm_guide/49494)  
+  
+- SVN
+
+  - [Windows下WebStorm使用SVN（转）](https://www.cnblogs.com/Deasel-s-magic-box/p/3492941.html)  
+  - [cannot load supported formats intellij 解决办法](https://blog.csdn.net/ameryzhu/article/details/24269841)  
+  
+- FTP
+
+  - [FTP自动同步功能](https://www.jianshu.com/p/59692367e528)   
+  点击导航栏tools->deployment->automatic upload （always）  
 
 ## Default Keymap
 
@@ -117,6 +162,8 @@ Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
     15. alt + L : show history 查看本地历史记录 
 
 ## Document
+- [judasn - IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+- [emmet.io - 内置emmet文档](https://docs.emmet.io/cheat-sheet/)
 
 ## Skill
 - 在出现横向滚动条的文件中，按住 shift 键滚动滚轮，可以横向移动编辑区
