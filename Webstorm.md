@@ -19,36 +19,6 @@ File -> Settings -> Plugins
 - [miaozhang9 - WebStorm下配置微信小程序代码提醒jar](https://github.com/miaozhang9/wecharCodejar)
 
 ## Settings
-
-- 请教如何让光标只能在最后一个字符后面  
-file -> settings -> ide settings ->editor
-allow ... after end of line
-
-- 显示右下角垃圾回收进度  
-file - settings - Appearance - show memory indicator
-
-- 关闭标签自动提示，比如输入i会有iframe,ie7等提示  
-File -> Settings -> Editor -> Code Completion -> Autopopup code completion
-
-- jsp页面提示插件   
-Application Servers View打勾
-
-- 版本控制，文件以及所在的文件夹都会出现一个颜色表示   
-version control -> show directories with changed descendants
-Settings > Editor > Colors & Fonts > File Status
-
-- 取消多余参数显示  
-Settings -> Editor -> General -> Appearance -> Show parameter name hints 
-取消打勾
-
-- [设置 Script 标签首层不缩进](https://www.jianshu.com/p/622c463ff925)
-- 取消html中间空格  
-Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
-勾不选
-
-- [如何取消Webstorm的分号检查 - How to disable WebStorm semicolon check?](https://stackoverflow.com/questions/31583771/how-to-disable-webstorm-semicolon-check-in-node-js)
-- [通过调试工具将 JS 运行过程可视化可以做到吗?](https://segmentfault.com/q/1010000000592521)
-
 - 主题
 
   - [修改IDEA代码左侧折叠线颜色](https://blog.csdn.net/FocusAgain/article/details/69257625)   
@@ -60,7 +30,7 @@ Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
   - 去除烦人的波浪线+灰色变量名，原因 - 没用过的标签  
   file - settings - Editor - Colors & Fonts - General - Unused sumbol，然后取消选中Effects和Foreground
 
-- Java
+- Java - IntelliJ IDEA
 
   - [IntelliJ IDEA 的热部署](https://zyjustin9.iteye.com/blog/2173112)
   - [IntelliJ IDEA12 怎么热部署，每次修改java文件就得重启tomcat](https://www.oschina.net/question/194770_91781)
@@ -68,7 +38,7 @@ Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
   - [Intellij idea 使用配置](https://hwy1782.iteye.com/blog/1917988)
   - [解决intellij idea中使用live edit插件不能在chrome即时显示css变化的方法（html可以）](https://www.cnblogs.com/nova-/p/3761698.html)
 
-- PHP
+- PHP - PHPStorm
 
   - [使用phpstorm来做github的git操作](https://jingyan.baidu.com/article/27fa7326fc009e46f9271f47.html)
   - [膘叔 - phpstorm设置ftp上传的时间问题](http://www.neatstudio.com/show-2057-1.shtml)
@@ -104,6 +74,36 @@ Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
 
   - [FTP自动同步功能](https://www.jianshu.com/p/59692367e528)   
   点击导航栏tools->deployment->automatic upload （always）  
+
+- 请教如何让光标只能在最后一个字符后面  
+file -> settings -> ide settings ->editor
+allow ... after end of line
+
+- 显示右下角垃圾回收进度  
+file - settings - Appearance - show memory indicator
+
+- 关闭标签自动提示，比如输入i会有iframe,ie7等提示  
+File -> Settings -> Editor -> Code Completion -> Autopopup code completion
+
+- jsp页面提示插件   
+Application Servers View打勾
+
+- 版本控制，文件以及所在的文件夹都会出现一个颜色表示   
+version control -> show directories with changed descendants
+Settings > Editor > Colors & Fonts > File Status
+
+- 取消多余参数显示  
+Settings -> Editor -> General -> Appearance -> Show parameter name hints 
+取消打勾
+
+- [设置 Script 标签首层不缩进](https://www.jianshu.com/p/622c463ff925)
+- 取消html中间空格  
+Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
+勾不选
+
+- [如何取消Webstorm的分号检查 - How to disable WebStorm semicolon check?](https://stackoverflow.com/questions/31583771/how-to-disable-webstorm-semicolon-check-in-node-js)
+- [通过调试工具将 JS 运行过程可视化可以做到吗?](https://segmentfault.com/q/1010000000592521)
+
 
 ## Default Keymap
 
