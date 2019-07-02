@@ -163,13 +163,13 @@ Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
     15. alt + L : show history 查看本地历史记录 
 
 ## Document
-- [judasn - IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 - [emmet.io - 内置emmet文档](https://docs.emmet.io/cheat-sheet/)
 
 ## Skill
 - 在出现横向滚动条的文件中，按住 shift 键滚动滚轮，可以横向移动编辑区
 
 ## Guide
+- [judasn - IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 
 ## Other
 - [关于Webstorm webpack经常不能自动热更新问题](https://segmentfault.com/q/1010000007796140)  
