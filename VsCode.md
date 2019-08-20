@@ -43,3 +43,4 @@
 - [Visual Studio Code有哪些你常用的插件？](https://www.zhihu.com/question/40640654)
 - [配置VSCode](http://fallenwood.github.io/2016/05/24/configuring-visual-studio-code/)
 - [i5ting - visual studio code 使用指南](http://i5ting.github.io/vsc/)
+- [vscode中的vue文件中emmet进行tab键不起作用](https://segmentfault.com/q/1010000008680303)
