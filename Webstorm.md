@@ -19,6 +19,8 @@ File -> Settings -> Plugins
 
 - [miaozhang9 - WebStorm下配置微信小程序代码提醒jar](https://github.com/miaozhang9/wecharCodejar)
 
+- [Postbird - 配置webstorm支持nunjucks（.njk文件）语法高亮](http://www.ptbird.cn/webstorm-nunjucks-njk-highlight.html)
+
 ## Settings
 - 主题
 
