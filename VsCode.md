@@ -24,6 +24,7 @@
 - [Jun Han - 自动修改匹配标签Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [charalampos karypidis - Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
 - [dsznajder - ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [平头哥糊口养家 - VSCode 的 Local History插件使用](https://blog.csdn.net/oYuLinZuo/article/details/103434597)
 
 ## Sill
 
