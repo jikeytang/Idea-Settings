@@ -25,6 +25,10 @@
 - [charalampos karypidis - Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
 - [dsznajder - ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - [平头哥糊口养家 - VSCode 的 Local History插件使用](https://blog.csdn.net/oYuLinZuo/article/details/103434597)
+- [生成Angular的文件模板（Component、Module、Pipe等等）](https://marketplace.visualstudio.com/items?itemName=alexiv.vscode-angular2-files)
+- [文件跳转（Component跳转到html、scss文件）](https://marketplace.visualstudio.com/items?itemName=sanderledegen.angular-follow-selector)
+- [引用填充和跳转到定义（html中进行引用补全）](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
+- []()
 
 ## Sill
 
