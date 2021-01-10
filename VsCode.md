@@ -28,7 +28,16 @@
 - [生成Angular的文件模板（Component、Module、Pipe等等）](https://marketplace.visualstudio.com/items?itemName=alexiv.vscode-angular2-files)
 - [文件跳转（Component跳转到html、scss文件）](https://marketplace.visualstudio.com/items?itemName=sanderledegen.angular-follow-selector)
 - [引用填充和跳转到定义（html中进行引用补全）](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
-- []()
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+- [local-history: 查看本地历史记录变化](https://marketplace.visualstudio.com/items?itemName=xyz.local-history)
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+- Typescript
+
+    - [tslint - TypeScript 代码检查](https://palantir.github.io/tslint/)
+    - [typescript-hero - 对模块顺序进行排序移除未被使用的](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
+    - [json2ts - 将剪切板中的 JSON 转化成 TypeScript 接口](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts)
 
 ## Sill
 
