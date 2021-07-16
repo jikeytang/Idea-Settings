@@ -44,6 +44,7 @@
 - [vscode 怎么双击选中连字符](https://segmentfault.com/q/1010000011349088/a-1020000011349212)
 - [iview的input标签报错 x-invalid-end-tag](https://segmentfault.com/q/1010000013227727)
 - [JSX 中使用 Emmet 快速补全标签](https://juejin.im/post/5b5fce12e51d45162679e032)
+- [第一次使用VS Code时你应该知道的一切配置](https://juejin.cn/post/6844903826063884296)
 
 ## Default Keymap
 
