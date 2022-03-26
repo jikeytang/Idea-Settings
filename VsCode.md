@@ -43,8 +43,12 @@
 
 - [vscode 怎么双击选中连字符](https://segmentfault.com/q/1010000011349088/a-1020000011349212)
 - [iview的input标签报错 x-invalid-end-tag](https://segmentfault.com/q/1010000013227727)
+- [emmet 规则](http://docs.emmet.io/cheat-sheet/)
+- [一篇文章搞懂【Emmet】语法规则，让前端编码健步如飞！](https://juejin.cn/post/7018567571876102151)
 - [JSX 中使用 Emmet 快速补全标签](https://juejin.im/post/5b5fce12e51d45162679e032)
 - [第一次使用VS Code时你应该知道的一切配置](https://juejin.cn/post/6844903826063884296)
+- [VSCode 利用 Snippets 设置超实用的代码块 - mac](https://juejin.cn/post/6844903869424599053)
+- [Visual Studio Code 添加设置代码段(snippet) - windows](https://www.cnblogs.com/summit7ca/p/5225494.html)
 
 ## Default Keymap
 
