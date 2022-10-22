@@ -49,6 +49,7 @@
 - [第一次使用VS Code时你应该知道的一切配置](https://juejin.cn/post/6844903826063884296)
 - [VSCode 利用 Snippets 设置超实用的代码块 - mac](https://juejin.cn/post/6844903869424599053)
 - [Visual Studio Code 添加设置代码段(snippet) - windows](https://www.cnblogs.com/summit7ca/p/5225494.html)
+- [VSCode文件空包折叠展开](https://blog.csdn.net/RELY_ON_YOURSELF/article/details/109669953)
 
 ## Default Keymap
 
