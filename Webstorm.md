@@ -169,6 +169,7 @@ Setting -> Editor -> code Style -> HTML -> Keep line breaks in text
 
 ## Skill
 - 在出现横向滚动条的文件中，按住 shift 键滚动滚轮，可以横向移动编辑区
+- [IDEA批量替换文件换行符、分隔符CRLF、LF、CR](https://codeantenna.com/a/afhmHjwAjT)
 
 ## Guide
 - [judasn - IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
