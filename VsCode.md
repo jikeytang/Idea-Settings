@@ -51,6 +51,7 @@
 - [Visual Studio Code 添加设置代码段(snippet) - windows](https://www.cnblogs.com/summit7ca/p/5225494.html)
 - [VSCode文件空包折叠展开](https://blog.csdn.net/RELY_ON_YOURSELF/article/details/109669953)
 - [vscode 打开文件不覆盖](https://blog.csdn.net/Angie0101/article/details/115461785)
+- [关闭vscode多余的$event显示](https://juejin.cn/post/7205487413350400056)
 
 ## Default Keymap
 
